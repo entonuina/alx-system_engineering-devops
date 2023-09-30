@@ -1,1 +1,1 @@
-print workin directory 
+printing current working directory
